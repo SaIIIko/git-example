@@ -1,6 +1,7 @@
 /**
  * @author 0@39.yt (цукцейцкеукеуйк)
  * @license MIT
+ * @sdkbjfsjkb
  */
 
 var stack = [];
